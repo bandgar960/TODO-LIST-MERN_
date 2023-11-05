@@ -1,0 +1,23 @@
+
+
+*{
+    background-color: blanchedalmond;
+}
+
+
+.btn{
+    margin-left: 30px;
+    display: flex;
+    position:absolute;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: red;
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  margin-left: 50%;
+
+
+}
