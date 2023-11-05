@@ -1,0 +1,35 @@
+POST http://localhost:6500/api/item
+Content-Type: application/json
+
+
+
+{
+    "item":"This is second todo item"
+}
+
+
+
+
+###
+
+GET  http://localhost:6500/api/item
+ Content-Type: application/json
+
+
+###
+
+
+PUT http://localhost:6500/api/item/6545329ef2ad297691a532c5
+Content-Type: application/json
+
+
+
+{
+    "item":"This is third todo item"
+}
+
+###
+DELETE http://localhost:6500/api/item/6545329ef2ad297691a532c5
+Content-Type: application/json
+
+
