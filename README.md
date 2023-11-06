@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# 2 Main Folder 1. Client 2. Server 
+# 1 Client command line cd client cd my-app
+# 2 Server cd server command nodemon 
+Using Command Start My appliction 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
